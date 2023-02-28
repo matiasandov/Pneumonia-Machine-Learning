@@ -5,6 +5,7 @@
 /• Implemented a Lambda function and an API, both in AWS, to receive inputs from the users and return inferences predicted with the built Machine Learning Model
 
 /• Implemented a users verification system with Amazon Cognito and used MongoDB for the storage of users
+
 /• Implemented the application with React Native to request inferences and get the results of the Pneumonia
 Detection
 
